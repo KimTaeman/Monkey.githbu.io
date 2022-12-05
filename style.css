@@ -96,7 +96,7 @@ body{
   height: 120px;
   width: calc(576px / 8);
   overflow: hidden;
-  background: url(Img/monkey6.png);
+  background: url(monkey.png);
   transform: perspective(500px) rotateX(-25deg) translateY(-150px);
   -webkit-box-reflect: below 1-x linear-gradient(transparent 90%, #0008);
   animation: animateMonkey 1.2s steps(8) infinite;
